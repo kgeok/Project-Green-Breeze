@@ -2,17 +2,11 @@
 
 # Green Breeze
 
-_Rough Draft_
-
 ![](RackMultipart20210527-4-1d5xwsv_html_31a8618113cbc2c8.png)
 
 Professor Blinder
 
 ECET 400
-
-Due Date: 10/5/20
-
-Submitted by: Shawn McHugh
 
 Team Members: Jarrett Bond, Kevin George, Shawn McHugh, August Rosenberger
 
